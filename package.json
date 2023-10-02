@@ -11,6 +11,7 @@
   "author": "Dustin Thurston",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "figlet": "^1.6.0",
     "prettyjson": "^1.2.5"
   }
